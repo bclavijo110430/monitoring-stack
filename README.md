@@ -1,1 +1,1 @@
-# sre
+# monitoring stack
